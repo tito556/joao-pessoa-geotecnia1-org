@@ -1,0 +1,40 @@
+# Geotecnia1 — Joao Pessoa
+
+> Geotechnical engineering services in Joao Pessoa, Brasil.
+
+## Services
+- [Cbr Viario](https://joao-pessoa.geotecnia1.org/cbr-viario/)
+- [Densidade Cone Areia](https://joao-pessoa.geotecnia1.org/densidade-cone-areia/)
+- [Ensaio Cpt](https://joao-pessoa.geotecnia1.org/ensaio-cpt/)
+- [Escavacoes](https://joao-pessoa.geotecnia1.org/escavacoes/)
+- [Estacas](https://joao-pessoa.geotecnia1.org/estacas/)
+- [Fundacoes](https://joao-pessoa.geotecnia1.org/fundacoes/)
+- [Geofisica](https://joao-pessoa.geotecnia1.org/geofisica/)
+- [Geotecnia Viaria](https://joao-pessoa.geotecnia1.org/geotecnia-viaria/)
+- [Injecoes](https://joao-pessoa.geotecnia1.org/injecoes/)
+- [Investigacao](https://joao-pessoa.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://joao-pessoa.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://joao-pessoa.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://joao-pessoa.geotecnia1.org/laboratorio/)
+- [Masw](https://joao-pessoa.geotecnia1.org/masw/)
+- [Melhoramento](https://joao-pessoa.geotecnia1.org/melhoramento/)
+- [Muros Contencao](https://joao-pessoa.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://joao-pessoa.geotecnia1.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://joao-pessoa.geotecnia1.org/pavimento-rigido/)
+- [Permeabilidade In Situ](https://joao-pessoa.geotecnia1.org/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://joao-pessoa.geotecnia1.org/pocos-inspecao/)
+- [Refracao Sismica](https://joao-pessoa.geotecnia1.org/refracao-sismica/)
+- [Resistividade](https://joao-pessoa.geotecnia1.org/resistividade/)
+- [Sapatas](https://joao-pessoa.geotecnia1.org/sapatas/)
+- [Sismica](https://joao-pessoa.geotecnia1.org/sismica/)
+- [Sondagens Spt](https://joao-pessoa.geotecnia1.org/sondagens-spt/)
+- [Taludes](https://joao-pessoa.geotecnia1.org/taludes/)
+- [Triaxial](https://joao-pessoa.geotecnia1.org/triaxial/)
+- [Tuneis Solo Mole](https://joao-pessoa.geotecnia1.org/tuneis-solo-mole/)
+
+## Contact
+- Website: https://joao-pessoa.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Joao Pessoa, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
